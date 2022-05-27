@@ -1,4 +1,5 @@
 ﻿# Enunciado
+ ## Enviar a : pb.idro94@gmail.com indicando grupo e integrantes
 # Vista de inicio/home
 	validar que los enlaces nos redirigan correctamente
 
