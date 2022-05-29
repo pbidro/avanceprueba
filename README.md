@@ -1,6 +1,7 @@
 ﻿# Enunciado
  ## Enviar a : pb.idro94@gmail.com indicando grupo e integrantes
 # Vista de inicio/home
+<img src"">
 	validar que los enlaces nos redirigan correctamente
 
 # Vista Loguear clientes
