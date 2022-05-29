@@ -1,8 +1,7 @@
 ﻿# Enunciado
  ## Enviar a : pb.idro94@gmail.com indicando grupo e integrantes
 # Vista de inicio/home
-
-	<image src"https://github.com/pbidro/avanceprueba/blob/main/Pagina%20De%20Productos.png?raw=true"/> </image> 
+![Image text](https://github.com/pbidro/avanceprueba/blob/main/Pagina%20De%20Productos.png?raw=true)
 
 	validar que los enlaces nos redirigan correctamente
 
