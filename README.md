@@ -3,6 +3,7 @@
 # Vista de inicio/home
 
 ![Image text](https://github.com/pbidro/avanceprueba/blob/main/Pagina%20de%20inicio.png?raw=true)
+
 	validar que los enlaces nos redirigan correctamente
 
 # Vista Loguear clientes
